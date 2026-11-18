@@ -1,0 +1,28 @@
+﻿
+# FastAPI backend
+fastapi
+uvicorn[standard]
+
+# Database
+sqlalchemy
+psycopg2-binary
+python-dotenv
+
+# Data validation
+pydantic
+
+# Optimization
+ortools==9.15.6755
+
+# Data science and numerical processing
+numpy==2.5.4
+pandas==3.1.1
+
+# OR-Tools dependencies
+absl-py==2.5.1
+immutabledict==4.3.1
+protobuf==6.33.6
+python-dateutil==4.0.0
+typing_extensions==4.16.0
+tzdata==2026.6
+requests==2.31.0
